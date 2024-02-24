@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chinglembi (Alina) from Imphal, India.
+- 👋 Hi, I’m @chinglembi from Imphal, India.
 - 👀 I’m interested in Software Manual Testing and web designing
 - 🌱 MCA fresher and Currently looking for manual testing job
 - 📫 Get In Touch at chingg.cy@gmail.com
